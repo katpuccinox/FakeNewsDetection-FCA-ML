@@ -87,3 +87,8 @@ The dataset CSV (`evons.csv`) can be accessed here:
 ---
 
 ✅ *This project aims to combine the power of machine learning and formal concept structures to detect and understand fake news behavior through engagement metrics.*
+
+## License
+
+This project was developed as part of the Final Degree Project in Software Engineering at University of Málaga.
+All rights are reserved by University of Málaga.
