@@ -4,7 +4,10 @@
 ![Machine Learning](https://img.shields.io/badge/tech-Machine%20Learning-blueviolet)
 ![Formal Concept Analysis](https://img.shields.io/badge/tech-FCA-orange)
 ![Shiny App](https://img.shields.io/badge/frontend-Shiny-5ec962)
-![License](https://img.shields.io/badge/license-MIT-green)
+
+<p align="center">
+  <img src="images/uma_logo.png" alt="University of Málaga Logo" width="200"/>
+</p>
 
 ---
 
