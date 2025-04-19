@@ -6,7 +6,7 @@
 ![Shiny App](https://img.shields.io/badge/frontend-Shiny-5ec962)
 
 <p align="center">
-  <img src="images/university-of-malaga-logo.png" alt="University of Málaga Logo" width="200"/>
+  <img src="images/university-of-malaga-logo.png" alt="University of Málaga Logo" width="500"/>
 </p>
 
 ---
